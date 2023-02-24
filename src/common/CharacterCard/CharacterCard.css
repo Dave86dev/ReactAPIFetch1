@@ -1,0 +1,24 @@
+
+.characterCardDesign {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 13em;
+    width: 10em;
+
+    margin: 1em;
+
+    border-radius: 1em;
+
+    background-color: darkgreen;
+
+    color: white;
+}
+
+.avatar {
+
+    height: 6em;
+}
